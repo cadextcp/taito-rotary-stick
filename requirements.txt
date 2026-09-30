@@ -1,0 +1,6 @@
+# Modell + Export (STEP/STL)
+build123d
+# Vorschaubilder, Animation, Längsschnitt, Zeichnung
+matplotlib
+pyvista
+imageio
